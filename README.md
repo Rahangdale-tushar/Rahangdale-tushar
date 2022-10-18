@@ -2,7 +2,7 @@
 
 I am Tushar Rahangdale, currently training as a Web Developer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-tushar-rahangdale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-rahangdale/)](https://www.linkedin.com/in/tushar-rahangdale/)
+[![Linkedin Badge](https://img.shields.io/badge/-tusharrahangdale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-rahangdale/)](https://www.linkedin.com/in/tushar-rahangdale/)
 [![Gmail Badge](https://img.shields.io/badge/-rahangdaletushar8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahangdaletushar@gmail.com)](mailto:deshmukhankit678@gmail.com)
 
 ## ⚡ Technologies
